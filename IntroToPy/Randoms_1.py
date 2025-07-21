@@ -1,7 +1,7 @@
 import random
 
 # Read input parameters from the console
-count = 100 # int(input("Number of values?> "))
+count = 200 # int(input("Number of values?> "))
 min_value = 15 # int(input("Minimum value?> "))
 max_value = 65 # int(input("Maximum value?> "))
 print(f"Generating {count} randoms in the range [{min_value}, {max_value}]")
