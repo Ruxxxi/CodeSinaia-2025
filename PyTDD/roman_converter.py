@@ -3,8 +3,7 @@ def roman_converter(num):
         return None
     
     if num >= 4000 or num <= 0:
-        return None
-    ''''  
+        return None 
     ROMAN_VALUES = [
         (1000, 'M'),
         (500, 'D'),
